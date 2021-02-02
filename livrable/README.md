@@ -16,6 +16,7 @@
 
     - check si le navigateur est à jour
     - mettre des stats
+    -speedtest
     - darkmode
 
 ## Documentation
