@@ -9,7 +9,7 @@ speedtest / test secu du nav (et à jour niveau secu), https over DNS, proxi, mo
 CI/CD sur git custom = déploiment auto, si pb de syntaxe = cancel le push
 ```
 
-### Essentiel au projet :
+### Essentiel au projet
 
 - page de login/register
 - créer des répositories/les stocker sur la bdd
@@ -18,11 +18,11 @@ CI/CD sur git custom = déploiment auto, si pb de syntaxe = cancel le push
 - les afficher
 - mise en ligne du site
 
-### Important au projet :
+### Important au projet
 
 - création d'un dossier de config git
 
-### Fonctionnalités secondaires :
+### Fonctionnalités secondaires
 
 - check si le navigateur est à jour
 - mettre des stats
