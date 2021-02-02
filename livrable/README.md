@@ -6,21 +6,16 @@
 
     - page de login/register
     - créer des répositories/les stocker sur la bdd
+    - création d'un dossier de config git
     - mettre des fichiers sur le site
     - analyse de code
     - les afficher
     - mise en ligne du site
 
-### Important au projet :
-
-    - création d'un dossier de config git
-
 ### Fonctionnalités secondaires :
 
     - check si le navigateur est à jour
-
     - mettre des stats
-
     - darkmode
 
 ## Documentation
