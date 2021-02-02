@@ -2,25 +2,30 @@
 
 ## TODO
 
-### Essentiel au projet :
+### Notes
 
-    - page de login/register
-    - créer des répositories/les stocker sur la bdd
-    - mettre des fichiers sur le site
-    - analyse de code
-    - les afficher
-    - mise en ligne du site
+```md
+speedtest / test secu du nav (et à jour niveau secu), https over DNS, proxi, monitoring
+CI/CD sur git custom = déploiment auto, si pb de syntaxe = cancel le push
+```
 
-### Important au projet :
+### Essentiel au projet
 
-    - création d'un dossier de config git
+- page de login/register
+- créer des répositories/les stocker sur la bdd
+- mettre des fichiers sur le site
+- analyse de code
+- les afficher
+- mise en ligne du site
 
-### Fonctionnalités secondaires :
+### Important au projet
 
-    - check si le navigateur est à jour
+- création d'un dossier de config git
 
-    - mettre des stats
+### Fonctionnalités secondaires
 
-    - darkmode
+- check si le navigateur est à jour
+- mettre des stats
+- darkmode
 
 ## Documentation
