@@ -2,4 +2,4 @@
 
 ## Compte-rendu
 
-En cours de réalisation de nos objectif connection, création, liaison.
+En cours de réalisation de nos objectifs connexion, création, liaison.
