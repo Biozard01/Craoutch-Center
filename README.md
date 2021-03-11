@@ -10,4 +10,3 @@ Vous en avez marre de faire confiance au géant de la sécurité pour stocker vo
 Notre plateforme de stockage vous permettra de vérifier et valider votre code avant de le faire passer en production, tout en vérifiant si votre navigateur est à jour et utilise les dernières normes de sécurité.
 Votre sécurité est notre travail, nous travaillons avec courage et persévérance, car la ténacité permet d'atteindre l'excellence.
 ```
-l
