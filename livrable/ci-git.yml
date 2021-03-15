@@ -1,0 +1,11 @@
+image: centos
+
+stages: 
+  - build
+
+build env: 
+  stage: build
+  script:
+    - yum update -y
+    - echo 'barbecue'
+
